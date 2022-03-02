@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.geom.*;
 
 
-public class FourInARowGraphics extends JPanel {
+public class Game extends JPanel {
   
   //Constants used for the spacing and size of the gamespace components
   private final int  BUFFER = 30;    //buffer around all edges
